@@ -1,0 +1,56 @@
+body {
+    background-color: #e9d2b3;
+}
+main{
+    background-color: #698bab;
+
+}
+main div{
+    width: 25%;
+}
+main img{
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+h1 {
+    background-color: black;
+    color: white;
+    border: 2px red solid;
+    padding: 50px;
+    font-size: 3.5em;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+li{
+    background-color: black;
+    list-style-type: none;
+    padding: 5px 10px;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+h2{
+  
+ text-transform: uppercase;  
+ text-shadow: 2px 2px  red ;
+ 
+}
+main p{
+    background-color: white;
+    border: 2px black dotted;
+   
+    
+}
+div{
+    margin: 15px
+}
+footer p{
+    color: red;
+}
